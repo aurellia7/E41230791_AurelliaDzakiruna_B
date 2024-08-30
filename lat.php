@@ -1,3 +1,3 @@
 <?php
-$haloooooo=aurel;
-echo $haloooooo;
+$halooo=aurel;
+echo $halooo;
